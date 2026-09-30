@@ -1,0 +1,204 @@
+language,year,creator,first_release,typing_discipline,paradigm,github_repositories,stackoverflow_questions,tiobe_rank,pypl_rank,github_stars,average_salary_usd,learning_difficulty,performance_score,ai_popularity_score,web_development_score,data_science_score,mobile_score,game_dev_score,embedded_score,demand_score
+Python,2020,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",191362,148794,1,1,26059,113424.84,3.12,45.13,95.88,55.51,96.74,14.93,16.59,13.52,49.56
+JavaScript,2020,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",171896,144226,2,2,27955,114523.82,3.24,50.87,52.28,94.27,29.18,31.2,53.64,8.36,30.48
+Java,2020,James Gosling,1995,Static,Object-Oriented,162887,119837,3,3,23035,116104.08,4.84,71.33,35.53,61.91,28.86,58.46,28.69,14.75,28.98
+SQL,2020,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,182886,129227,4,4,28301,98210.82,2.3,54.69,13.79,33.98,57.58,1.0,1.0,1.0,12.8
+C++,2020,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",154821,123211,5,6,25146,123501.86,7.63,93.56,21.1,2.67,28.66,2.04,79.02,90.46,18.78
+TypeScript,2020,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",91778,69415,6,5,15377,127233.18,4.32,50.24,48.82,95.36,30.58,21.8,34.81,1.63,29.7
+C#,2020,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",113727,93882,7,7,22348,104573.81,4.73,76.03,29.83,39.88,18.31,32.92,78.25,15.97,18.62
+C,2020,Dennis Ritchie,1972,Static,Procedural,158019,117545,8,8,26310,108691.34,6.94,98.04,11.38,7.12,7.18,4.28,35.79,100.0,17.22
+Shell (Bash),2020,Brian Fox,1989,Dynamic,"Scripting, Procedural",98552,69504,9,10,17322,92890.75,3.07,60.06,5.59,14.84,16.29,7.28,1.0,53.59,17.25
+PHP,2020,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",98588,73704,10,11,16421,88111.74,2.96,43.81,9.31,85.44,3.37,1.0,1.0,4.61,12.33
+Go,2020,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",56971,43392,11,12,9751,131130.4,3.36,83.17,24.5,58.81,5.99,1.69,1.87,20.72,24.06
+Swift,2020,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",41517,32727,12,14,6892,130487.24,4.72,75.59,5.41,4.38,6.32,88.79,18.07,13.48,24.79
+Ruby,2020,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,68284,52489,13,15,9958,107610.2,3.05,41.23,8.45,61.8,7.53,4.96,1.0,1.0,15.94
+Kotlin,2020,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",40970,33669,14,16,7710,123245.39,4.51,69.38,6.48,19.99,1.0,81.67,7.77,3.37,22.51
+R,2020,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",57934,50041,15,9,10022,101269.64,4.04,37.35,55.07,9.77,76.32,1.0,4.18,1.24,26.18
+MATLAB,2020,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",59989,46869,16,13,10210,108618.28,3.98,46.5,15.18,3.16,60.89,5.9,1.0,18.73,18.16
+Rust,2020,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",37017,27862,17,17,5586,137376.22,6.48,99.99,25.75,32.02,5.0,7.04,31.57,67.85,29.49
+Perl,2020,Larry Wall,1987,Dynamic,"Procedural, Scripting",43346,32622,18,20,7253,98033.44,5.55,62.38,1.0,9.19,1.0,1.12,5.12,1.14,12.25
+VB.NET,2020,Microsoft,2002,Static,"Object-Oriented, Event-driven",34777,24526,19,21,5344,92118.19,3.32,56.28,5.48,16.57,1.0,1.0,1.46,6.32,12.95
+Scala,2020,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",31212,20616,20,19,5042,127388.8,6.58,80.23,18.38,28.38,29.17,1.0,8.82,3.8,23.3
+Lua,2020,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",30330,25907,21,22,4945,102898.92,3.54,62.31,2.57,3.19,2.29,4.82,66.82,44.48,14.57
+Dart,2020,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",20640,14891,22,23,3309,104749.88,4.05,58.55,5.01,20.54,3.8,74.09,3.54,5.95,13.81
+Objective-C,2020,Brad Cox & Tom Love,1984,Static,Object-Oriented,30910,23562,23,24,5353,106845.75,6.12,71.22,1.0,1.0,1.0,35.55,4.22,6.91,13.96
+Groovy,2020,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",16868,13970,24,26,2921,101068.85,4.72,60.72,4.5,21.56,1.0,1.0,4.36,6.74,13.82
+Haskell,2020,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,18692,14265,25,25,2941,119736.9,7.95,85.21,6.08,5.95,14.65,1.0,4.19,4.06,23.34
+Elixir,2020,José Valim,2011,Dynamic,"Functional, Concurrent",11606,10541,26,28,2086,113207.48,5.47,64.32,1.72,28.76,1.31,5.86,1.87,4.12,11.76
+Julia,2020,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",10084,7662,27,18,1602,117506.65,5.32,72.87,48.07,1.0,70.94,4.49,1.0,1.0,21.64
+Clojure,2020,Rich Hickey,2007,Dynamic,Functional,12085,8527,28,27,1842,116640.54,6.24,66.52,2.57,20.2,12.53,3.42,5.99,12.25,15.05
+F#,2020,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",9587,8252,29,29,1431,111464.28,6.86,77.64,6.46,15.15,11.69,1.0,1.0,2.07,17.68
+Python,2021,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",208770,144722,1,1,35945,121690.3,2.95,46.06,96.42,54.26,97.24,19.89,19.38,8.29,49.5
+JavaScript,2021,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",184919,133638,2,2,30933,115424.07,3.7,51.67,50.66,100.0,29.64,30.91,55.72,5.88,30.8
+Java,2021,James Gosling,1995,Static,Object-Oriented,180746,131236,3,3,31640,119988.83,4.82,73.56,40.2,58.31,33.81,55.27,27.21,18.96,26.52
+SQL,2021,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,183230,151483,4,5,32384,100917.87,2.51,50.94,12.68,28.16,58.27,2.31,3.34,1.0,17.44
+TypeScript,2021,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",110358,80144,5,4,17785,130118.95,4.54,52.35,46.02,98.1,33.91,29.38,32.22,4.1,27.66
+C#,2021,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",128244,102446,6,6,23050,114998.86,5.07,73.39,23.12,38.26,22.15,30.86,75.94,9.31,17.77
+C++,2021,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",168954,115844,7,7,23922,124864.57,7.55,96.34,18.37,3.76,28.81,10.4,84.66,88.16,21.19
+C,2021,Dennis Ritchie,1972,Static,Procedural,142455,109303,8,8,23425,103311.08,7.2,96.86,12.49,2.29,13.0,3.86,35.79,100.0,20.87
+Shell (Bash),2021,Brian Fox,1989,Dynamic,"Scripting, Procedural",108530,89080,9,10,17311,94187.49,2.9,55.09,3.84,9.54,16.37,1.0,1.0,57.02,12.67
+PHP,2021,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",98745,82105,10,11,18729,91871.03,3.08,42.81,5.54,88.89,9.97,6.52,4.46,4.39,14.68
+Go,2021,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",66050,51988,11,12,12348,132767.0,3.61,82.93,19.26,51.91,17.23,4.11,7.59,29.95,24.15
+Swift,2021,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",47988,34871,12,15,7704,135184.38,4.55,73.34,11.06,9.76,2.08,89.24,22.54,10.01,21.79
+Ruby,2021,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,70274,55726,13,17,13351,114420.65,2.93,40.84,11.02,60.09,1.29,10.94,1.0,1.0,18.05
+Kotlin,2021,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",51649,34304,14,16,8560,129409.16,4.31,70.14,7.41,29.41,11.35,83.36,18.24,4.1,17.8
+R,2021,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",67983,49166,15,9,10828,98597.38,3.86,40.11,57.47,6.03,90.08,1.0,1.0,1.0,20.04
+Rust,2021,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",45556,33314,16,14,8047,145078.45,6.53,97.6,25.12,40.5,14.4,4.47,25.02,73.72,26.31
+MATLAB,2021,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",63382,44128,17,13,9812,116107.05,3.97,51.15,16.74,1.0,56.85,1.0,12.45,22.41,15.67
+Perl,2021,Larry Wall,1987,Dynamic,"Procedural, Scripting",41763,28411,18,20,5801,103432.24,5.39,60.76,1.0,11.06,3.18,1.0,1.0,9.3,15.28
+Scala,2021,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",34506,22721,19,19,5586,132481.77,6.33,80.65,12.57,17.53,34.91,1.0,1.0,1.0,19.06
+VB.NET,2021,Microsoft,2002,Static,"Object-Oriented, Event-driven",30510,21380,20,22,5026,94761.05,3.62,56.94,4.62,12.83,1.0,1.0,8.01,5.3,14.12
+Lua,2021,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",36136,26165,21,21,4758,94926.31,3.65,61.68,7.39,7.75,6.85,14.44,53.63,41.21,12.89
+Dart,2021,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",23214,19187,22,23,3764,115918.85,3.76,57.24,1.92,17.85,2.99,75.18,13.49,1.0,15.15
+Objective-C,2021,Brad Cox & Tom Love,1984,Static,Object-Oriented,27880,19120,23,26,4711,110357.18,5.7,72.47,1.63,2.51,1.0,29.54,12.54,2.81,15.51
+Groovy,2021,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",20584,13768,24,25,3263,112451.49,4.53,59.85,8.05,12.76,3.88,11.09,3.56,6.89,18.01
+Elixir,2021,José Valim,2011,Dynamic,"Functional, Concurrent",13937,9607,25,27,2290,115567.2,5.52,67.04,4.22,21.38,1.0,3.63,3.55,1.0,19.26
+Haskell,2021,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,17369,14559,26,24,3518,123066.48,7.96,85.4,10.31,5.68,12.76,1.12,1.0,1.86,17.39
+Julia,2021,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",13065,8244,27,18,2117,124408.08,5.53,71.88,50.43,1.0,71.81,1.0,2.07,1.0,30.88
+Clojure,2021,Rich Hickey,2007,Dynamic,Functional,11871,8369,28,28,2037,123564.69,6.54,64.28,1.77,16.92,12.03,3.41,1.0,9.48,15.35
+F#,2021,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",9310,6489,29,29,1518,121760.53,7.22,77.07,5.9,8.4,13.91,1.0,1.0,3.76,20.05
+Python,2022,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",250472,162426,1,1,36343,122747.0,3.1,46.49,100.0,57.46,100.0,14.54,16.64,6.7,51.75
+JavaScript,2022,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",198751,142687,2,2,33275,114197.95,3.63,53.99,51.43,100.0,30.31,29.12,50.94,6.25,38.5
+Java,2022,James Gosling,1995,Static,Object-Oriented,196560,138386,3,4,26713,121715.54,4.85,72.07,37.25,50.31,32.93,61.04,32.55,12.2,23.39
+TypeScript,2022,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",144471,105059,4,3,20102,129464.61,4.4,47.71,50.68,91.05,26.76,31.26,39.82,2.08,31.67
+SQL,2022,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,221642,141613,5,5,34368,103935.62,2.5,56.63,14.16,29.6,59.54,1.43,4.39,7.51,16.02
+C++,2022,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",161313,118112,6,6,30888,126499.03,7.73,94.28,24.89,15.62,28.23,15.82,85.53,86.03,21.9
+C#,2022,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",135625,111928,7,7,22593,116954.18,5.2,72.92,25.72,46.08,17.52,36.88,72.87,13.35,15.39
+C,2022,Dennis Ritchie,1972,Static,Procedural,158266,109367,8,8,25487,113076.69,7.07,96.74,7.49,8.21,16.88,1.0,36.57,93.84,12.89
+Shell (Bash),2022,Brian Fox,1989,Dynamic,"Scripting, Procedural",107753,83209,9,10,20374,95778.49,3.11,51.68,7.37,3.56,12.67,5.49,1.0,47.16,14.77
+Go,2022,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",73806,61342,10,11,13012,137060.56,3.72,85.57,16.35,55.72,19.51,1.0,1.0,26.31,27.03
+PHP,2022,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",105894,76844,11,12,18288,92119.61,2.95,45.7,2.62,80.39,4.04,2.41,2.32,6.53,9.28
+Swift,2022,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",49566,42238,12,15,8493,129348.16,4.59,72.68,11.14,5.82,1.0,92.01,18.9,8.65,22.56
+Kotlin,2022,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",59286,40863,13,16,10275,137878.14,4.37,70.24,11.19,35.75,7.12,92.15,2.48,3.73,21.95
+Rust,2022,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",56917,44049,14,14,9514,150074.91,6.18,94.28,23.49,36.79,5.44,3.08,35.75,70.35,29.08
+Ruby,2022,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,66502,48066,15,17,13324,111827.68,2.79,36.38,5.98,68.55,3.04,4.26,1.0,1.0,10.16
+R,2022,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",69240,43919,16,9,10868,112397.33,4.06,41.13,57.26,1.0,87.01,1.0,4.22,1.0,34.92
+MATLAB,2022,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",62738,45267,17,13,10131,116691.59,4.33,46.86,19.03,3.02,57.61,1.0,7.05,18.32,24.22
+Scala,2022,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",33378,24330,18,19,6254,136895.01,6.52,80.14,11.46,19.15,36.99,1.0,1.83,9.99,24.96
+Dart,2022,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",28223,24293,19,20,4228,118593.79,4.29,59.09,6.23,15.49,1.0,77.07,1.0,2.95,18.86
+Perl,2022,Larry Wall,1987,Dynamic,"Procedural, Scripting",43834,27982,20,21,6743,106704.7,5.53,59.56,2.72,20.06,1.0,1.0,6.43,12.03,13.81
+Lua,2022,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",34814,27681,21,22,6246,100517.74,3.44,65.18,2.1,2.75,1.0,9.84,61.77,38.78,7.6
+VB.NET,2022,Microsoft,2002,Static,"Object-Oriented, Event-driven",29058,25304,22,23,5139,93239.39,3.66,55.77,1.51,16.86,1.0,8.02,1.0,4.0,11.83
+Objective-C,2022,Brad Cox & Tom Love,1984,Static,Object-Oriented,28156,20695,23,25,4809,117981.26,5.94,72.33,3.83,5.88,1.0,36.09,9.57,9.81,20.34
+Elixir,2022,José Valim,2011,Dynamic,"Functional, Concurrent",15870,12396,24,26,2767,121608.84,5.38,61.38,3.6,30.53,5.28,2.38,5.14,5.48,22.87
+Julia,2022,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",14263,9689,25,18,2472,121691.29,5.66,76.21,42.65,1.0,74.61,1.0,1.0,1.0,26.56
+Groovy,2022,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",19675,14737,26,27,2869,117024.88,4.71,60.62,1.0,19.65,3.36,3.84,4.98,1.33,18.69
+Haskell,2022,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,20587,15345,27,24,3418,128518.45,8.33,84.1,3.92,5.35,16.57,2.22,1.0,2.88,17.93
+Clojure,2022,Rich Hickey,2007,Dynamic,Functional,12363,8896,28,29,2364,128932.17,6.22,67.64,5.05,17.9,6.28,1.0,1.15,1.69,20.15
+F#,2022,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",10923,7682,29,28,1478,126672.81,7.02,74.49,9.1,14.93,14.11,4.98,1.0,1.0,19.53
+Python,2023,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",245457,178948,1,1,43474,130624.34,2.95,44.06,100.0,57.72,100.0,16.16,22.53,4.17,49.96
+JavaScript,2023,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",191737,157833,2,2,33984,121095.13,3.34,46.65,54.06,95.55,31.24,39.26,55.63,4.37,30.42
+TypeScript,2023,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",140903,106058,3,3,21698,129039.44,4.32,51.26,49.5,100.0,24.53,25.61,42.35,16.62,32.78
+SQL,2023,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,225187,175061,4,4,35548,100120.07,2.57,57.44,11.44,27.81,64.93,3.21,2.0,6.03,19.58
+Java,2023,James Gosling,1995,Static,Object-Oriented,191167,135587,5,5,25478,126448.64,5.09,68.84,35.1,55.29,36.66,61.46,21.75,12.64,32.06
+C#,2023,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",148570,97003,6,6,24908,119452.54,5.1,79.11,31.29,44.24,15.55,37.32,77.1,9.02,24.89
+C++,2023,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",157778,128638,7,7,27658,135283.74,7.47,94.49,19.97,1.0,26.85,3.25,81.7,85.99,25.33
+C,2023,Dennis Ritchie,1972,Static,Procedural,165340,115062,8,8,27216,119195.15,6.78,99.13,7.18,4.24,11.31,6.45,40.28,96.63,18.8
+Shell (Bash),2023,Brian Fox,1989,Dynamic,"Scripting, Procedural",118802,86964,9,11,19478,102215.58,2.75,55.58,1.0,8.22,13.92,2.12,1.0,51.54,13.36
+Go,2023,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",94364,67038,10,10,16092,145457.33,3.16,87.0,15.25,57.76,15.63,8.11,8.23,23.52,30.21
+PHP,2023,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",100650,74617,11,12,17331,94868.94,2.96,43.63,4.43,92.09,4.61,1.02,1.0,1.0,17.25
+Rust,2023,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",77429,44362,12,13,12596,162294.87,6.71,100.0,23.29,31.54,8.48,1.99,26.42,73.69,30.94
+Kotlin,2023,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",65889,49292,13,14,10976,138067.11,4.59,67.7,14.65,30.02,6.79,92.21,16.59,6.24,24.08
+Swift,2023,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",52195,41306,14,15,8301,140400.17,4.57,70.94,10.85,9.98,9.18,97.45,20.81,8.0,24.11
+R,2023,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",68086,57035,15,9,11691,109726.25,3.76,39.75,58.16,4.91,83.85,1.92,4.87,2.17,31.22
+Ruby,2023,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,68653,53657,16,18,11885,116550.19,3.08,38.9,11.13,61.4,7.1,7.91,1.0,4.24,15.47
+MATLAB,2023,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",71824,49566,17,16,11587,117660.27,3.86,51.65,16.05,1.13,54.16,2.56,10.6,20.73,22.98
+Dart,2023,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",35175,22641,18,20,6355,122161.76,3.8,62.09,3.93,15.95,2.51,74.92,7.89,4.43,14.41
+Lua,2023,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",41353,31594,19,21,5982,97933.78,3.64,65.97,2.63,6.1,1.97,10.68,58.15,42.66,12.14
+Scala,2023,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",32745,26204,20,19,5702,144963.44,6.47,79.15,7.74,18.74,27.26,1.0,1.0,1.06,27.75
+Perl,2023,Larry Wall,1987,Dynamic,"Procedural, Scripting",39267,28616,21,22,6293,107617.29,5.51,61.52,1.0,26.66,1.0,2.3,1.0,12.31,18.38
+VB.NET,2023,Microsoft,2002,Static,"Object-Oriented, Event-driven",27689,20079,22,23,5283,96697.74,3.46,56.15,1.58,11.86,1.0,6.4,3.7,4.24,10.4
+Julia,2023,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",18396,13411,23,17,2982,130238.12,5.04,73.77,41.81,1.0,76.24,3.21,1.0,6.76,31.84
+Objective-C,2023,Brad Cox & Tom Love,1984,Static,Object-Oriented,26145,19060,24,26,4349,110369.06,6.0,72.58,1.0,1.0,1.0,35.43,3.03,12.74,16.14
+Elixir,2023,José Valim,2011,Dynamic,"Functional, Concurrent",17944,14092,25,27,3063,121391.22,5.57,66.82,1.0,35.6,1.0,1.0,2.85,3.56,18.39
+Haskell,2023,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,19990,16610,26,24,3586,124419.86,8.0,88.18,7.91,9.76,17.5,1.0,8.11,7.64,20.11
+Groovy,2023,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",18706,13794,27,25,2723,113898.7,4.71,59.82,9.11,24.95,3.15,1.0,5.15,1.0,17.96
+Clojure,2023,Rich Hickey,2007,Dynamic,Functional,13072,9620,28,29,2270,133086.78,6.43,69.58,1.98,19.32,8.82,1.0,2.75,3.44,23.52
+F#,2023,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",10252,7437,29,28,1831,127401.28,6.87,79.71,1.42,15.6,18.82,2.98,1.58,2.57,15.83
+Python,2024,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",258788,203992,1,1,40350,132698.19,2.93,46.72,100.0,55.65,100.0,17.84,23.17,8.61,51.91
+TypeScript,2024,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",179806,135795,2,2,31717,138707.06,4.42,52.94,48.96,98.26,24.74,29.05,33.93,5.93,37.27
+JavaScript,2024,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",227816,170832,3,3,36934,121815.89,3.36,51.86,63.9,94.14,29.5,43.51,51.71,8.35,35.85
+SQL,2024,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,237576,159009,4,4,36814,116123.99,2.72,56.11,13.83,30.86,63.22,1.49,1.0,2.04,15.88
+Java,2024,James Gosling,1995,Static,Object-Oriented,186111,143211,5,5,34817,130000.67,5.06,74.0,36.06,55.94,36.08,51.55,29.41,14.39,25.42
+C++,2024,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",185833,133014,6,6,31168,136939.56,7.35,92.51,14.51,11.19,38.14,9.65,83.77,81.99,22.82
+C#,2024,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",159758,98995,7,7,26509,122436.89,5.05,73.26,22.17,52.39,19.3,41.67,70.59,17.35,23.99
+C,2024,Dennis Ritchie,1972,Static,Procedural,173155,126826,8,8,33497,128637.2,7.0,97.63,9.38,5.28,10.64,9.3,31.62,99.33,19.9
+Go,2024,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",108773,81452,9,10,20604,153948.4,3.81,88.57,11.96,55.71,11.43,5.05,3.8,25.94,31.55
+Rust,2024,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",102313,66667,10,11,16051,163929.27,6.43,99.82,22.7,49.12,13.41,2.17,33.88,73.55,32.56
+Shell (Bash),2024,Brian Fox,1989,Dynamic,"Scripting, Procedural",118327,96663,11,12,18454,98834.38,2.65,51.28,2.37,14.44,15.43,1.0,1.0,57.46,13.02
+PHP,2024,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",104839,74658,12,13,17563,98296.02,3.1,45.95,7.85,91.88,1.0,1.0,1.0,2.06,13.31
+Kotlin,2024,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",77755,57754,13,14,13457,147664.96,3.95,66.55,10.83,31.16,3.58,89.74,1.0,6.53,27.39
+Swift,2024,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",67710,48275,14,15,10270,148884.38,4.58,70.09,6.56,12.79,5.41,90.55,16.56,7.85,26.82
+R,2024,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",78911,54754,15,9,13151,121215.31,4.06,40.88,55.37,6.87,94.43,11.84,1.0,1.0,29.5
+Ruby,2024,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,70405,47024,16,18,11735,119071.83,2.92,42.09,6.76,67.47,11.21,10.11,1.0,8.73,18.93
+MATLAB,2024,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",63722,43474,17,16,10259,114888.97,4.17,48.67,19.77,2.95,54.67,1.0,1.0,15.01,21.25
+Dart,2024,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",44098,29927,18,20,6594,124873.67,3.78,58.97,9.75,20.29,2.15,77.64,9.88,1.14,22.98
+Scala,2024,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",33218,27486,19,19,6532,144859.59,6.25,78.14,12.24,23.93,30.34,10.04,1.0,5.0,29.82
+Lua,2024,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",44414,30986,20,21,6641,109175.33,3.51,62.77,4.66,8.44,8.24,6.5,59.09,42.99,17.08
+Perl,2024,Larry Wall,1987,Dynamic,"Procedural, Scripting",33531,29655,21,22,6591,112267.47,5.66,56.47,4.96,10.12,1.68,1.58,1.0,11.13,19.39
+VB.NET,2024,Microsoft,2002,Static,"Object-Oriented, Event-driven",28194,18119,22,23,4294,99861.35,3.45,54.16,4.47,21.9,1.0,3.11,1.0,1.0,11.9
+Julia,2024,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",20741,16601,23,17,3211,137966.58,5.61,71.56,41.12,1.78,70.83,1.0,1.0,5.46,29.19
+Elixir,2024,José Valim,2011,Dynamic,"Functional, Concurrent",21040,15045,24,25,3599,130295.32,5.53,69.41,3.2,32.22,2.18,1.0,2.27,1.89,18.64
+Objective-C,2024,Brad Cox & Tom Love,1984,Static,Object-Oriented,26197,17534,25,26,4290,117487.58,6.19,72.28,3.19,1.0,3.62,42.54,3.92,6.68,17.36
+Haskell,2024,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,22718,16184,26,24,3736,129278.75,7.61,85.41,4.52,5.52,14.72,1.0,1.0,7.26,18.79
+Groovy,2024,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",17814,13202,27,28,3353,115334.49,4.4,59.98,1.0,13.33,5.29,1.0,1.0,1.0,19.2
+Clojure,2024,Rich Hickey,2007,Dynamic,Functional,13814,10300,28,29,2443,134301.41,6.38,65.8,9.32,12.4,4.06,1.37,1.0,1.34,22.72
+F#,2024,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",11473,8006,29,27,1973,121148.25,6.83,77.72,10.06,11.21,14.55,1.0,3.83,1.0,19.35
+Python,2025,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",277522,210464,1,1,49998,141124.7,2.9,44.27,96.6,53.29,100.0,17.5,18.76,11.83,52.44
+TypeScript,2025,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",205793,144196,2,2,33165,146403.13,4.33,54.38,53.64,99.36,39.17,36.29,36.54,1.95,38.09
+JavaScript,2025,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",232076,173074,3,3,39531,125363.15,3.54,52.61,59.71,92.89,33.69,41.32,55.64,4.53,35.23
+SQL,2025,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,227449,144071,4,4,44310,115909.68,2.58,55.49,17.32,29.72,58.51,5.33,1.0,6.59,21.91
+Java,2025,James Gosling,1995,Static,Object-Oriented,189213,131253,5,5,33917,136180.34,5.35,71.59,37.45,55.05,40.32,58.43,33.37,17.22,24.31
+C#,2025,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",155030,118856,6,6,27000,126526.73,4.62,76.57,20.8,44.67,13.18,28.54,76.93,12.91,24.9
+C++,2025,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",184856,123588,7,7,33356,141671.94,7.49,95.52,17.69,9.36,27.39,12.19,85.75,79.21,24.43
+Go,2025,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",130458,91170,8,8,23395,160192.3,3.42,82.44,19.25,60.71,17.55,6.36,1.0,30.33,36.15
+C,2025,Dennis Ritchie,1972,Static,Procedural,159034,115083,9,11,28078,131504.78,7.03,98.24,1.4,9.42,6.15,6.39,33.37,96.86,20.58
+Rust,2025,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",114621,81213,10,10,16582,172252.08,6.62,95.32,21.81,32.82,4.23,4.77,30.34,72.23,33.1
+Shell (Bash),2025,Brian Fox,1989,Dynamic,"Scripting, Procedural",141480,105625,11,12,27489,104969.97,3.02,54.51,2.32,9.93,17.29,1.0,5.11,50.93,12.61
+Kotlin,2025,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",82916,65370,12,13,14136,157130.1,4.48,69.93,4.13,29.99,6.63,95.72,10.52,1.0,23.05
+PHP,2025,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",109026,80281,13,14,18735,99455.16,2.79,42.63,6.72,87.79,5.44,2.01,7.89,1.0,13.51
+Swift,2025,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",68572,54941,14,15,10487,155331.37,4.72,71.09,7.01,10.6,6.64,94.97,21.78,9.39,30.46
+R,2025,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",82986,54843,15,9,14786,118031.49,4.07,39.25,66.77,3.99,95.75,1.0,2.41,8.65,31.52
+Ruby,2025,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,70070,45007,16,18,12842,125912.48,2.99,43.48,1.0,61.81,6.21,2.1,1.0,5.1,17.91
+Dart,2025,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",46820,34528,17,20,8082,137426.54,4.05,59.02,3.06,22.03,1.0,81.43,6.9,1.0,24.75
+MATLAB,2025,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",62264,44827,18,17,12410,129677.15,3.94,52.93,21.01,1.0,52.63,1.0,7.04,19.58,23.42
+Lua,2025,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",47670,32612,19,21,8854,107636.08,3.19,65.07,2.4,2.65,2.04,13.52,54.01,34.76,11.81
+Scala,2025,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",37694,26006,20,19,6944,146423.77,6.39,78.84,14.49,12.88,31.79,4.2,3.58,1.0,24.96
+Perl,2025,Larry Wall,1987,Dynamic,"Procedural, Scripting",33839,26436,21,22,5165,113845.15,5.4,58.99,1.0,9.03,5.21,1.0,5.68,9.29,20.05
+Julia,2025,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",24506,20240,22,16,4462,133884.52,5.17,74.24,49.58,1.0,73.79,1.0,1.38,1.0,25.94
+Elixir,2025,José Valim,2011,Dynamic,"Functional, Concurrent",23511,18743,23,24,3876,132783.8,5.69,64.81,6.83,26.8,1.0,3.0,5.39,3.28,20.38
+VB.NET,2025,Microsoft,2002,Static,"Object-Oriented, Event-driven",23920,18979,24,25,4623,104783.95,3.48,58.68,1.0,8.84,3.2,4.7,1.0,2.04,19.83
+Haskell,2025,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,24214,16076,25,23,4021,139478.97,8.1,88.83,4.5,3.15,18.99,1.0,2.18,8.69,20.28
+Objective-C,2025,Brad Cox & Tom Love,1984,Static,Object-Oriented,19269,16570,26,29,3732,122630.75,6.01,75.53,3.68,1.0,1.0,34.29,4.87,3.03,21.01
+Groovy,2025,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",17111,11937,27,28,3339,124011.15,4.49,60.18,7.11,17.79,1.38,7.41,6.86,1.0,16.37
+Clojure,2025,Rich Hickey,2007,Dynamic,Functional,16287,10486,28,26,2583,133987.48,6.49,66.19,5.37,9.85,16.33,1.0,1.0,1.0,20.43
+F#,2025,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",12277,7665,29,27,2010,141586.05,6.97,81.68,6.47,3.06,15.72,1.0,1.0,1.0,19.45
+Python,2026,Guido van Rossum,1991,Dynamic,"Multi-paradigm (OOP, Functional, Procedural)",311682,221399,1,1,56477,144721.19,2.78,42.35,100.0,57.66,100.0,13.31,19.68,3.25,52.77
+TypeScript,2026,Microsoft (Anders Hejlsberg),2012,Static,"Multi-paradigm (OOP, Functional)",250287,170318,2,2,37764,148260.58,4.52,54.94,47.89,100.0,31.57,28.83,34.59,3.99,29.18
+JavaScript,2026,Brendan Eich,1995,Dynamic,"Multi-paradigm (Event-driven, Functional, Prototype-based)",258481,191568,3,3,43876,129161.33,3.72,47.79,64.16,92.53,40.2,41.89,54.28,3.47,34.06
+Java,2026,James Gosling,1995,Static,Object-Oriented,211355,157163,4,5,31951,131780.66,4.79,67.38,31.22,48.59,31.82,56.76,32.1,16.11,28.43
+SQL,2026,Donald D. Chamberlin & Raymond F. Boyce,1974,Static,Declarative,230046,150447,5,4,42932,119212.23,2.43,54.38,14.48,31.92,61.63,1.0,4.15,1.82,27.82
+Go,2026,"Robert Griesemer, Rob Pike, Ken Thompson",2009,Static,"Procedural, Concurrent",156770,115990,6,6,26521,164785.16,3.49,88.6,20.08,53.93,16.59,5.24,1.0,29.8,35.24
+C#,2026,Microsoft (Anders Hejlsberg),2000,Static,"Multi-paradigm (OOP, Functional, Event-driven)",179529,121952,7,7,34420,133105.63,4.92,74.13,17.14,46.55,19.33,38.27,77.5,20.01,23.71
+C++,2026,Bjarne Stroustrup,1985,Static,"Multi-paradigm (OOP, Procedural, Generic)",203869,142379,8,8,32136,144245.87,7.8,92.65,11.64,1.0,25.37,8.82,80.71,87.86,24.31
+Rust,2026,Graydon Hoare,2010,Static,"Multi-paradigm (Functional, Concurrent, Generic)",138482,88943,9,9,24566,176712.19,6.5,98.45,20.95,29.53,2.17,4.95,29.12,74.59,38.26
+C,2026,Dennis Ritchie,1972,Static,Procedural,181051,145009,10,11,31468,133677.51,7.06,95.3,3.7,5.37,12.32,4.77,34.32,94.88,24.69
+Shell (Bash),2026,Brian Fox,1989,Dynamic,"Scripting, Procedural",147215,96447,11,12,24124,111625.32,2.93,56.54,4.17,6.11,12.96,4.28,11.41,53.5,19.82
+Kotlin,2026,JetBrains,2011,Static,"Multi-paradigm (OOP, Functional)",99579,66110,12,13,15971,151546.84,4.44,67.17,4.9,30.89,7.47,86.1,5.83,9.42,27.49
+PHP,2026,Rasmus Lerdorf,1995,Dynamic,"Multi-paradigm (Procedural, OOP)",100910,69769,13,14,21295,109531.11,2.85,44.83,1.0,83.35,3.55,1.0,1.0,1.53,11.12
+Swift,2026,Apple (Chris Lattner),2014,Static,"Multi-paradigm (OOP, Functional, Protocol-oriented)",71188,53561,14,15,14179,153089.0,4.53,74.64,6.94,9.21,1.0,94.48,13.63,6.35,34.99
+R,2026,Ross Ihaka & Robert Gentleman,1993,Dynamic,"Functional, Procedural",85943,64056,15,10,13176,125272.81,4.14,36.97,60.08,3.48,96.71,1.0,6.31,5.98,35.66
+Dart,2026,Google (Lars Bak & Kasper Lund),2011,Static,"Multi-paradigm (OOP, Functional)",56490,39111,16,19,10768,139453.67,3.88,58.74,1.49,26.84,11.07,75.38,10.28,1.0,19.22
+Ruby,2026,Yukihiro Matsumoto,1995,Dynamic,Object-Oriented,75760,49148,17,18,12429,123527.83,3.22,39.25,5.85,61.66,7.65,7.6,4.37,8.15,20.77
+MATLAB,2026,Cleve Moler,1984,Dynamic,"Array/Matrix-based, Procedural",74230,48248,18,17,12452,125174.61,3.8,47.15,16.27,1.0,56.84,4.95,5.16,14.85,16.69
+Lua,2026,"Roberto Ierusalimschy, Luiz H. de Figueiredo, Waldemar Celes",1993,Dynamic,"Procedural, Scripting",47663,34606,19,21,8253,116214.22,3.29,66.31,3.94,6.9,1.0,9.33,64.17,41.57,14.11
+Scala,2026,Martin Odersky,2004,Static,"Multi-paradigm (OOP, Functional)",36093,27166,20,20,6775,150917.98,6.4,77.67,9.46,18.43,35.56,1.0,1.0,1.0,26.69
+Julia,2026,"Jeff Bezanson, Stefan Karpinski, Viral Shah, Alan Edelman",2012,Dynamic,"Multi-paradigm (Functional, Procedural)",30380,24660,21,16,5459,145593.35,5.32,74.43,43.12,1.0,75.78,1.86,1.0,5.63,30.92
+Elixir,2026,José Valim,2011,Dynamic,"Functional, Concurrent",26233,18076,22,22,4351,140053.44,5.34,65.45,4.53,28.54,2.51,1.75,4.93,1.0,24.5
+Perl,2026,Larry Wall,1987,Dynamic,"Procedural, Scripting",35141,22331,23,23,6253,108693.75,5.77,62.38,1.0,18.01,5.51,10.55,1.0,9.59,12.97
+VB.NET,2026,Microsoft,2002,Static,"Object-Oriented, Event-driven",22565,17355,24,24,4323,101719.97,3.51,54.66,8.77,16.97,1.57,4.22,1.92,6.79,17.82
+Haskell,2026,Simon Peyton Jones et al. (committee),1990,Static,Purely Functional,23686,16368,25,25,3953,135389.84,8.09,84.01,2.58,8.07,10.1,5.64,12.43,6.47,15.88
+Objective-C,2026,Brad Cox & Tom Love,1984,Static,Object-Oriented,23506,14998,26,26,3207,121815.03,6.11,71.3,4.49,5.25,1.0,32.19,2.23,11.01,20.35
+Groovy,2026,James Strachan,2003,Dynamic,"Multi-paradigm (OOP, Functional, Scripting)",18626,13099,27,29,2947,125863.75,4.36,62.89,1.97,22.66,1.0,4.35,1.0,1.0,18.5
+Clojure,2026,Rich Hickey,2007,Dynamic,Functional,14468,11389,28,27,2754,139969.42,6.49,69.35,1.0,8.67,7.02,1.0,5.66,1.0,14.87
+F#,2026,Microsoft (Don Syme),2005,Static,"Functional-first, Multi-paradigm",12849,7970,29,28,2021,138443.58,7.1,76.34,1.65,6.22,14.06,10.83,6.57,1.0,16.43

@@ -1,0 +1,21 @@
+Disease,Fever,Cough,Fatigue,Shortness_of_Breath,Sore_Throat,Headache,Body_Aches,Runny_Nose,Loss_of_Taste_or_Smell,Nausea
+Influenza,1,1,1,0,1.0,1,1.0,1.0,0.0,0.0
+Influenza,1,1,1,0,0.0,1,1.0,0.0,,
+Influenza,1,1,1,0,1.0,1,1.0,0.0,0.0,0.0
+COVID-19,1,1,1,1,0.0,1,0.0,0.0,1.0,0.0
+COVID-19,0,1,1,0,1.0,0,,1.0,1.0,0.0
+COVID-19,1,1,1,1,0.0,1,1.0,0.0,1.0,0.0
+Common Cold,0,1,0,0,1.0,0,0.0,1.0,0.0,
+Common Cold,0,0,1,0,1.0,1,0.0,1.0,0.0,0.0
+Common Cold,0,1,0,0,1.0,0,0.0,1.0,0.0,0.0
+Pneumonia,1,1,1,1,0.0,0,1.0,0.0,0.0,1.0
+Pneumonia,1,1,1,1,,0,0.0,0.0,0.0,1.0
+Pneumonia,1,1,1,1,0.0,1,1.0,0.0,0.0,0.0
+Strep Throat,1,0,1,0,1.0,1,0.0,0.0,0.0,0.0
+Strep Throat,1,0,0,0,1.0,1,1.0,,,0.0
+Strep Throat,1,0,0,0,1.0,1,0.0,0.0,0.0,0.0
+Gastroenteritis,1,0,1,0,0.0,1,1.0,0.0,0.0,1.0
+Gastroenteritis,0,0,1,0,0.0,0,1.0,0.0,,1.0
+Gastroenteritis,1,0,1,0,0.0,0,1.0,0.0,0.0,1.0
+Asthma,0,1,1,1,0.0,0,0.0,0.0,0.0,0.0
+Asthma,0,1,0,1,0.0,0,0.0,0.0,0.0,0.0

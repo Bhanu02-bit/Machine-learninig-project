@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ML for all",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

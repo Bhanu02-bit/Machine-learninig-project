@@ -1,0 +1,116 @@
+Bayesian Disease Prediction System Documentation
+
+1. Overview
+This project builds a simple Bayesian disease prediction application using a CSV dataset of symptoms and diseases. It reads medical symptom data, trains a Naive Bayes model, and predicts the most likely disease based on the symptoms selected by the user.
+
+2. Tools and Libraries Used
+The project uses Python standard libraries only:
+- csv: read the CSV dataset
+- math: perform probability and log calculations
+- tkinter: create the graphical user interface
+- collections.Counter: count disease labels
+- collections.defaultdict: store symptom counts by disease
+- pathlib.Path: locate the dataset file reliably
+- tkinter.messagebox: show user alerts and error messages
+- tkinter.ttk: create modern styled widgets
+
+3. Dataset
+The dataset file is:
+- bayesian/disease_symptoms.csv
+
+It contains rows with:
+- a Disease column
+- several symptom columns such as Fever, Cough, Fatigue, Shortness_of_Breath, Sore_Throat, Headache, Body_Aches, Runny_Nose, Loss_of_Taste_or_Smell, and Nausea
+
+Each symptom value can be:
+- 1 / 0
+- yes / no
+- true / false
+- present / absent
+- empty values or unknown values are treated as missing data
+
+4. Model Used
+The system uses a Naive Bayes classifier.
+
+This means the model assumes each symptom is independent, given the disease. The classifier estimates:
+- P(Disease): the prior probability of each disease
+- P(Symptom | Disease): the likelihood of each symptom within each disease
+
+Then it computes the posterior probability:
+P(Disease | Symptoms)
+
+5. Data Preprocessing
+The code in parse_binary(value) converts symptom values into a consistent binary format.
+
+Examples:
+- "1", "yes", "true", "present" -> True
+- "0", "no", "false", "absent" -> False
+- "", "?", "unknown", "na" -> None
+
+Unknown values are ignored during training rather than treated as a wrong value.
+
+6. Training Process
+The function train_network(csv_path) performs the following:
+1. Opens the CSV file
+2. Validates that a Disease column exists
+3. Identifies all symptom columns
+4. Counts how many times each disease appears
+5. Counts how often each symptom is present for each disease
+6. Uses smoothing to avoid zero probabilities
+
+The code uses Laplace smoothing with:
+- SMOOTHING = 1.0
+
+This ensures even rare symptoms still get a valid probability.
+
+7. Probability Formula
+For each disease:
+P(Disease) = (count(Disease) + smoothing) / (total_rows + smoothing * number_of_diseases)
+
+For each symptom:
+P(symptom = True | Disease) = (present_count + smoothing) / (observed_count + 2 * smoothing)
+
+The probability of the symptom being false is then:
+1 - P(symptom = True | Disease)
+
+8. Prediction Process
+The function predict_probabilities(evidence, priors, likelihoods) does this:
+1. Takes the selected symptoms from the GUI
+2. For each disease, calculates a score using the disease prior and symptom probabilities
+3. Uses log probabilities to avoid underflow problems
+4. Normalizes all scores so they add to 1
+5. Returns the final probabilities for each disease
+
+9. GUI Design
+The application uses tkinter to create a window with:
+- a title label
+- a list of symptom checkboxes
+- a Predict disease button
+- a result label showing the predicted disease and probability
+
+The interface is created in launch_gui().
+
+10. User Workflow
+When the user runs the application:
+1. The program loads the training dataset
+2. It builds the Bayesian model
+3. The user clicks symptoms they are experiencing
+4. The program combines those selected symptoms as evidence
+5. It calculates the probability of each disease
+6. It displays the disease with the highest probability
+
+Example output:
+Likely disease: Influenza
+Estimated probability: 68.3%
+
+11. Important Note
+This project is meant for learning and demonstration. It does not replace a doctor or real medical diagnosis. It only estimates the most likely disease based on symptom patterns in the dataset.
+
+12. Summary
+The application is a simple educational Naive Bayes disease predictor using:
+- CSV training data
+- symptom probability estimation
+- Bayesian inference
+- Tkinter graphical interface
+
+It shows how machine learning can be applied to a classification problem using probability-based reasoning.
